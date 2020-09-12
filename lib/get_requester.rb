@@ -3,6 +3,6 @@ require 'net/http'
 require 'json'
 
 class GetRequester
-  def initialize(uri)
+  def initialize(url)
 end
 
