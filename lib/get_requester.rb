@@ -2,5 +2,7 @@ require 'open-uri'
 require 'net/http'
 require 'json'
 
-class Ge
+class GetRequester
+
+end
 
