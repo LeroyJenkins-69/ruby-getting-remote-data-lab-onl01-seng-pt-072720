@@ -7,5 +7,7 @@ class GetRequester
     @url = url 
   end
   
+  def  
+  end
 end
 
