@@ -15,5 +15,6 @@ class GetRequester
   
   def parse_json
     JSON.parse(@url)
+  end
 end
 
