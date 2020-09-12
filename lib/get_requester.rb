@@ -7,7 +7,7 @@ class GetRequester
     @url = url 
   end
   
-  def get_responder 
+  def get_response  
   end
 end
 
