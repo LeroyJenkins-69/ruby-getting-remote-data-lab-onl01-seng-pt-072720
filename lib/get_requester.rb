@@ -13,6 +13,6 @@ class GetRequester
     response.body
   end
   
-  def 
+  def parse_json 
 end
 
