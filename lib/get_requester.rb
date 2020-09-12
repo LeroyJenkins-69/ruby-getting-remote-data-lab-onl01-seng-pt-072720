@@ -1,4 +1,4 @@
-require 
+require 'open uri'
 require 
 require 
 
